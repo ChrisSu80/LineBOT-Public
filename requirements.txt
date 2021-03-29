@@ -1,0 +1,11 @@
+Flask
+gunicorn
+line-bot-sdk
+pymysql
+googlemaps
+pandas
+pygsheets
+scipy
+pyimgur
+matplotlib
+numpy
